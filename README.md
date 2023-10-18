@@ -1,12 +1,13 @@
 <!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=seachimes) -->
 <!-- ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=seachimes&layout=compact) -->
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=seachimes) -->
+<!-- &hide=html,css -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats-seachimes.vercel.app/api?username=seachimes&count_private=true&show_icons=true&theme=graywhite" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-seachimes.vercel.app/api/top-langs/?username=seachimes&layout=compact&langs_count=20&hide=html,css&exclude_repo=github-readme-stats&theme=graywhite" />
+  <img align="left" src="https://github-readme-stats-seachimes.vercel.app/api/top-langs/?username=seachimes&layout=compact&langs_count=20&exclude_repo=github-readme-stats&theme=graywhite" />
 </a>
 
 
