@@ -7,7 +7,7 @@
   <img align="left" src="https://github-readme-stats-seachimes.vercel.app/api?username=seachimes&count_private=true&show_icons=true&theme=graywhite" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-seachimes.vercel.app/api/top-langs/?username=seachimes&layout=compact&langs_count=20&exclude_repo=github-readme-stats&theme=graywhite" />
+  <img align="left" src="https://github-readme-stats-seachimes.vercel.app/api/top-langs/?username=seachimes&layout=compact&langs_count=20&exclude_repo=github-readme-stats&theme=graywhite&hide=html,css" />
 </a>
 
 
