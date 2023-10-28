@@ -9,7 +9,6 @@
   <img align="left" src="https://github-readme-stats-seachimes.vercel.app/api/top-langs/?username=seachimes&layout=compact&langs_count=20&exclude_repo=github-readme-stats&theme=graywhite&hide=html,css" />
 </a>
 
-
 <!--
 **seachimes/seachimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
